@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Wireshark Analysis Project](https://github.com/DLRivera/LABURL)
+- [Wireshark Analysis Project](https://github.com/DLRivera/Wireshark-Analysis)
 - [Memory Analysis Project (Volatility)](https://github.com/DLRivera/LABURL)
 - [Conainerization Project](https://github.com/DLRivera/LABURL)
 
