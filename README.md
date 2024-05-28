@@ -7,7 +7,8 @@
 - [Conainerization Lab](https://github.com/DLRivera/LABURL)
 
 <h2>Writeups (For CTFS and Wargames)</h2>
-- [Currently in development!]
+
+- Currently in Development!
 
 <h2>Certifications:</h2>
 
