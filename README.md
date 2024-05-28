@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Wireshark Packet Analysis Lab](https://github.com/DLRivera/Wireshark-Analysis)
-- [Memory Analysis Lab (Volatility)](https://github.com/DLRivera/LABURL)
+- [Memory Analysis Lab (Volatility)](https://github.com/DLRivera/Memory_Analysis)
 - [Conainerization Lab](https://github.com/DLRivera/LABURL)
 
 <h2>Writeups (For CTFS and Wargames)</h2>
